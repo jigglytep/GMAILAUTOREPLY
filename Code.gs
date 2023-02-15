@@ -4,7 +4,7 @@ let LABEL = "[Mailbox]/JOBS"
 //Necessary Files
 let RESUME_DOCX = '<RESUME.docx>'; //name of file in google drive
 let RESUME_PDF = '<RESUME.pdf>'; //name of file in google drive
-let EMAIL_TRACKER = 'JobEmails'; //name of google sheet
+let EMAIL_TRACKER = '<NAME_OF_GOOGLE_SHEET>'; //name of google sheet
 
 //EMAIL BODY
 let EMAIL_BODY = `
